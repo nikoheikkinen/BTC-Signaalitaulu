@@ -1,0 +1,2 @@
+# BTC-Signaalitaulu
+BTC taulu
